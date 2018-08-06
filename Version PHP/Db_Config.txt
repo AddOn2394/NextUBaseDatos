@@ -1,0 +1,10 @@
+Acceso al sistema web:
+usuario: root
+clave: root
+
+MySQL esta sin clave:
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: "root" 
+DB: "nextUDB"
+
